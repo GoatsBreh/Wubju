@@ -1,0 +1,29 @@
+{
+  "nextEntryId": 20,
+  "nodes": [
+    {
+      "id": "16",
+      "name": "Project root",
+      "type": null,
+      "children": [
+        {
+          "id": "17",
+          "name": "Leonard",
+          "type": "sprite"
+        },
+        {
+          "id": "18",
+          "name": "Scenario",
+          "type": null,
+          "children": [
+            {
+              "id": "19",
+              "name": "Game Start",
+              "type": "script"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
